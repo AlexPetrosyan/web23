@@ -4,9 +4,9 @@
 [MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## ОГЛАВЛЕНИЕ
-- [Основы HTML](https://github.com/AlexPetrosyan/web23/edit/main/README.md#основы-html)
-	- [Основные теги HTML](https://github.com/AlexPetrosyan/web23/edit/main/README.md#основные-теги-html)
-   		- [Списки](https://github.com/AlexPetrosyan/web23/edit/main/README.md#списки)
+- [Основы HTML](#основы-html)
+	- [Основные теги HTML](#основные-теги-html)
+   		- [Списки](#списки)
        		- [Таблицы](https://github.com/AlexPetrosyan/web23/edit/main/README.md#таблицы)
 - [Основы форматирования текста](https://github.com/AlexPetrosyan/web23/edit/main/README.md#основы-форматирования-текста)
 - [Основы CSS](https://github.com/AlexPetrosyan/web23/edit/main/README.md#основы-css)
