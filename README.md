@@ -7,9 +7,9 @@
 - [Основы HTML](#основы-html)
 	- [Основные теги HTML](#основные-теги-html)
    		- [Списки](#списки)
-       		- [Таблицы](https://github.com/AlexPetrosyan/web23/edit/main/README.md#таблицы)
-- [Основы форматирования текста](https://github.com/AlexPetrosyan/web23/edit/main/README.md#основы-форматирования-текста)
-- [Основы CSS](https://github.com/AlexPetrosyan/web23/edit/main/README.md#основы-css)
+       		- [Таблицы](#таблицы)
+- [Основы форматирования текста](#основы-форматирования-текста)
+- [Основы CSS](#основы-css)
 
 
 ## ОСНОВЫ HTML
