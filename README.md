@@ -410,3 +410,6 @@ CSS код:
 	background: green;
 	grid-area: g;
 }
+```
+Для подробного изучения Grid с визуальными примерами на Хабре есть [статья по Grid](https://habr.com/ru/companies/macloud/articles/564182/).
+***
